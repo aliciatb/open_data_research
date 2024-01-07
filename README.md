@@ -1,2 +1,1 @@
-# research_consent_form
-consent form
+# Research Consent Form
