@@ -1,0 +1,59 @@
+---
+title: "Measuring Public Use of Open Data in the U.S."
+---
+
+## Introduction
+
+Greetings!
+
+I am a doctoral student at [Royal Roads University](https://royalroads.ca/ "Royal Roads University"), and as part of my dissertation I am conducting three case studies on how open data programs measure the public's use of open data. The key questions my research seeks to answer are:
+
+1.  How do local governments measure public use of open data?
+
+2.  Do current measurement methods effectively reflect public participation in open data programs?
+
+3.  Are portals intended to be the primary place for the public to interact with open data?
+
+## Risks
+
+Participation in this research includes an interview conducted through virtual meeting software or over the telephone. Interview participants may select the method that best suits them. Interviews will be recorded and stored in a secure storage location without any personal information associated to the files. Virtual meeting tools may include Zoom or Teams using my Royal Roads student license, depending on the preference of the interview participant. The transcript and summary of your interview will be provided to you to confirm its accuracy and my understanding. 
+
+Interview recordings will be processed to produce a transcript and prepare for my analysis. I will be using NVivo software to apply thematic codes to the interview. There will be no personal information included with the interview and resulting analysis within NVivo. The interview will not be processed or uploaded to any Artificial Intelligence (AI) tool. 
+
+All content produced from the interview and NVivo analysis will be assigned an anonymous identifier such as “Participant 1” and will be mapped in a separate file stored securely and apart from the interview files to protect your identity. The secure storage location requires multi-factor authentication where in addition to login credentials, a physical device that generates an additional secure code is required to successfully login to access the research files. 
+
+Interview recordings, transcripts, and participant information will be destroyed upon completion of the research. As such, there are no anticipated risks to loss or unintended use of the information you share in an interview.
+
+## Benefits
+
+Participation in this research contributes to the understanding of effective and novel approaches for measuring the public use of open and their engagement. Measurements of open data utilization may help rationalize investment in open data programs by governments by showing evidence of public use as well as identify which open data initiatives and products are most popular with public users.
+
+## Reimbursements
+
+If permitted by your organization, a gift card to cover the costs of a meal will be provided to interview participants. The meal cost will be based on the [rates](https://www.gsa.gov/travel/plan-book/per-diem-rates) set by the U.S. General Services Administration for a participant’s location. Participation by employees of community-based organizations will be reimbursed for their time participating in the interview.
+
+## Confidentiality
+
+I will not be sharing any personal information I gather with anyone. Please note that your valuable ideas and opinions will appear in the report itself. However, no names or other personally identifiable information will be included in the narratives for the dissertation report. All information about individuals will have a code on it instead of a name. After my write-up, all information I have collected will be destroyed.
+
+## Sharing Results
+
+The findings from my research will be reported in my doctoral Dissertation which will be housed in the Royal Roads University Library, the Canadian Library, and ProQuest for public access.  The information gathered from this research will also be shared with participants and synthesized in a journal article submission to increase knowledge about public use and engagement with the open data and research community.
+
+## Conflicts of Interest
+
+A potential conflict of interest may be perceived because of my position at King County Information Technology for community-based organizations and technology providers but please note that this research is not being conducted on behalf of King County.
+
+## Right to Refuse or Withdraw
+
+You are under no obligation to participate in this research. Research participants may opt of this research at any time up until the point of analysis of the data at which point the information cannot be withdrawn. Interview transcripts and contact details will be deleted. Participants may no longer be able to withdraw from the study once their comments become part of an anonymous data set.
+
+## Contact Details
+
+If you have any questions at all, please email me at [alicia.9brown\@royalroads.ca](mailto:alicia.9brown@royalroads.ca).
+
+If you have any questions or concerns throughout your participation, you are invited to contact my supervisor, [Dr. Jaigris Hodson](https://www.royalroads.ca/contact/staff_directory?staff=Jaigris%20Hodson), Associate Professor, College of Interdisciplinary Studies.
+
+This research project has been approved by the RRU Research Ethics Board. If you have any questions regarding your rights as a research participant, please contact the Office of Research Ethics at [ethicalreview@royalroads.ca](mailto:ethicalreview@royalroads.ca).
+
+Please click [here](consent.qmd) to sign a research consent form.

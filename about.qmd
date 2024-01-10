@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+My interest in this topic was sparked by my [work](https://www.linkedin.com/in/aliciabrown) at Socrata/Tyler from 2015-2020 and current work with King County in Seattle, Washington. I have supported many open data initiatives and believe in the power of open data to provide valuable information to the public and others. However, I do worry about the future of open data programs if their value and use is not measured or known.
+
+Thanks for your consideration to participate in my research!
+
+[![Photo taken at Royal Roads University in 2022.](files/alicia_rru.jpg){fig-alt="Photo of Alicia taken at Royal Roads University in 2022" fig-align="center" width="100%"}](https://commons.royalroads.ca/dsocsciprogrampage/alicia-brown/)
+
+Please email me at [alicia.9brown\@royalroads.ca](mailto:alicia.9brown@royalroads.ca) if you have questions or comments about this research.

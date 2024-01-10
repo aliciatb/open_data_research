@@ -1,0 +1,7 @@
+---
+title: "Research Methods"
+---
+
+Qualitative methods will be used to conduct three case studies analyzing the open data programs of three local governments. Research methods will include semi-structured interviews of open data stakeholders and analysis of open data policy and program documents to gather information from two sources about the intentions and actions taken to confirm that open data is being used by the public. 
+
+Open data stakeholders include: (a.) community-based organizations with a need for open data to support an initiative, (b.) civic technology groups, and (c.) technology companies who provide open data platforms and products.

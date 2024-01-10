@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "Research"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Consent Form
+      - href: consent.qmd
+        text: Certificate of Consent
+      - href: methods.qmd
+        text: Research Methods
+      - href: about.qmd
+        text: About
+
+# more themes - https://bootswatch.com/default/
+format:
+  html:
+    theme: journal
+    css: styles.css
+    toc: true
+
+editor: visual
+
